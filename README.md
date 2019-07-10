@@ -5,7 +5,7 @@ A GitHub repository for my presentation at FreeCodeCamp.
 
 ## Data
 
-Data can be retrieved from https://open.jacksonms.gov/dataset/events-in-the-city1/
+Data can be retrieved from <a>https://open.jacksonms.gov/dataset/events-in-the-city1/</a>
 
 ## Interact with this notebook
 
