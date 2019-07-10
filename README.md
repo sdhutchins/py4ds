@@ -16,4 +16,4 @@ Data can be retrieved from <a>https://open.jacksonms.gov/dataset/events-in-the-c
 ## View the notebook
 
 Checkout the [html version](https://www.shauritahutchins.com/py4ds/py4ds.html) of 
-this notebook and the resulting [barplot](https://www.shauritahutchins.com/py4ds/revenue_barplot.html)
+this notebook and the resulting [barplot](https://www.shauritahutchins.com/py4ds/revenue_barplot.html).
