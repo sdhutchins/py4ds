@@ -15,4 +15,5 @@ Data can be retrieved from https://open.jacksonms.gov/dataset/events-in-the-city
 
 ## View the notebook
 
-Checkout the [html version]() of this notebook.
+Checkout the [html version](https://www.shauritahutchins.com/py4ds/py4ds.html) of 
+this notebook and the resulting [barplot](https://www.shauritahutchins.com/py4ds/revenue_barplot.html)
