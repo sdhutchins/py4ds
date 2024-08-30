@@ -1,6 +1,6 @@
 # py4ds
 
-A GitHub repository for my presentation at FreeCodeCamp.
+A GitHub repository for my presentation at [FreeCodeCampJxn](https://github.com/freecodecampjxn).
 
 
 ## Data
