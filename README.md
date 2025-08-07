@@ -2,7 +2,6 @@
 
 A GitHub repository for my presentation at [FreeCodeCampJxn](https://github.com/freecodecampjxn).
 
-
 ## Data
 
 Data can be retrieved from <a src="https://open.jacksonms.gov/dataset/events-in-the-city1/">https://open.jacksonms.gov/dataset/events-in-the-city1/</a>
@@ -15,5 +14,4 @@ Data can be retrieved from <a src="https://open.jacksonms.gov/dataset/events-in-
 
 ## View the notebook
 
-Checkout the [html version](https://www.shauritahutchins.com/py4ds/py4ds.html) of 
-this notebook and the resulting [barplot](https://www.shauritahutchins.com/py4ds/revenue_barplot.html).
+View this notebook on PositConnect Cloud: [py4ds](https://sdhutchins-py4ds.share.connect.posit.cloud/).
