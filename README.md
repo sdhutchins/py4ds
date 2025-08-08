@@ -66,7 +66,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you use this code in your work, please cite it as follows:
 
-```bibtex
+```txt
 @misc{hutchins_py4ds_2025,
   author       = {Shaurita D. Hutchins},
   title        = {py4ds: A Practical Introduction to Python for Data Science},
